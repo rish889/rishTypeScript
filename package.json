@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/rish889/rishTypeScript/issues"
   },
-  "homepage": "https://github.com/rish889/rishTypeScript#readme"
+  "homepage": "https://github.com/rish889/rishTypeScript#readme",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
 }
