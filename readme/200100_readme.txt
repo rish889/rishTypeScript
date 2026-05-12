@@ -8,3 +8,4 @@ npx tsc --init
 mkdir src
 touch src/index.ts
 npx tsc
+node dist/index.js
