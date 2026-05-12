@@ -4,3 +4,7 @@ npm init -y
 npm install typescript --save-dev
 npx tsc -v
 npx tsc --init
+
+mkdir src
+touch src/index.ts
+npx tsc
