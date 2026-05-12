@@ -15,4 +15,7 @@ node dist/index.js
 npm install tsx --save-dev
 npx tsx src/index.ts
 
-file:///home/rishabh/workspace/rish/rishTypeScript/src/200100_hello_world/index.html
+
+
+
+npx tsc --ignoreConfig src/200100_hello_world/index.ts --outDir dist --rootDir src
