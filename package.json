@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/rish889/rishTypeScript#readme",
   "devDependencies": {
+    "tsx": "^4.21.0",
     "typescript": "^6.0.3"
   }
 }

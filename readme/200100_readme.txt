@@ -9,3 +9,6 @@ mkdir src
 touch src/index.ts
 npx tsc
 node dist/index.js
+
+npm install tsx --save-dev
+npx tsx src/index.ts
