@@ -19,3 +19,4 @@ npx tsx src/index.ts
 
 
 npx tsc --ignoreConfig src/200100_hello_world/index.ts --outDir dist --rootDir src
+tsx src/200100_hello_world/index.ts
