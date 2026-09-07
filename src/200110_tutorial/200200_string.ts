@@ -5,4 +5,8 @@ let description = `This TypeScript string can
 span multiple 
 lines
 `;
-console.log(description);
+
+let profile: string = `I'm ${firstName}. 
+I'm a ${title}`;
+
+console.log(profile);
