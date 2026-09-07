@@ -34,3 +34,5 @@ console.log(employee2.toString());
 
 // The object type represents all non-primitive values while the Object type describes the functionality of all objects.
 // For example, the Object type has the toString() and valueOf() methods that can be accessible by any object.
+// The empty type {} refers to an object that has no property on its own.
+// let vacant: {};
