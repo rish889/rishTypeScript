@@ -1,4 +1,4 @@
-let message: string = '200100 Hello, World!';
+let message: string = 'Hello, World!';
 console.log(message);
 
 let result: any;
